@@ -1,7 +1,6 @@
 # TestFlows - AsyncIO (Deprecated)
 
-**The connect module is still work in progress and is currently under development.
-Please use it only for reference.**
+**This module has been deprecated and functionality moved to testflows.core**
 
 Module to provide asyncio capabilities.
 
